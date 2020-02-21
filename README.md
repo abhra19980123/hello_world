@@ -1,2 +1,3 @@
 # hello_world
-Hello Humans of the World
+Hello Humans of the World.
+Coding is fun.
